@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skills CLI Usage"
+  short_description: "Use Vercel Skills CLI commands reliably across agents."
+  default_prompt: "Help me list, install, remove, and update skills using npx skills, including agent-targeted and global install options."
